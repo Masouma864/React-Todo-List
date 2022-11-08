@@ -1,3 +1,4 @@
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Todo-list with React
@@ -30,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 
 first : clone this repo by running this command :
 
-`git clone https://github.com/Masouma864/React-Todo-List.git`
+`git clone https://github.com/Masouma864/React-Todo-List.gitt`
 
 run following to install dependencies : `npm install`
 
