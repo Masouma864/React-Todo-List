@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple example steps.
 
 first : clone this repo by running this command :
 
-`git clone https://github.com/Zuhaib042/React-todo-list.git`
+`git clone https://github.com/Masouma864/React-Todo-List.git`
 
 run following to install dependencies : `npm install`
 
